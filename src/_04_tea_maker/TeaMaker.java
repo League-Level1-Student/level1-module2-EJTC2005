@@ -31,7 +31,7 @@ class TeaBag {
 
 class Kettle {
 
-	private Water water = new Water();
+	Water water = new Water();
 
 	Water getWater() {
 		return water;
